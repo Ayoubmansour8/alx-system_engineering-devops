@@ -1,0 +1,2 @@
+#!/bin/bash
+fnd . -empty | rev | cut -d '/' -f l | rev 
